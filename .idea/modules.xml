@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mainservice/mainservice.iml" filepath="$PROJECT_DIR$/mainservice/mainservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pet-project-v1-2025.iml" filepath="$PROJECT_DIR$/.idea/pet-project-v1-2025.iml" />
     </modules>
   </component>
 </project>
